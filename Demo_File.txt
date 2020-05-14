@@ -1,1 +1,6 @@
 System.ou.println("Cao Xuan Quy");
+System.ou.println("Cao Quy");
+System.ou.println("Cao Xuan );
+System.ou.println("Cao Xuan Quy");
+System.ou.println("Cao Xuan Quy");
+
